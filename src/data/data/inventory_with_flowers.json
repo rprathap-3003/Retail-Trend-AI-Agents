@@ -1,0 +1,122 @@
+[
+  {
+    "id": "FLOWER-001",
+    "category": "Tie",
+    "name": "Rose Garden Silk Tie",
+    "color": "Deep Red",
+    "style": "Romantic Vintage",
+    "fabric": "Silk",
+    "price": 85,
+    "stock_level": 15,
+    "description": "Hand-drawn style red roses with dark green stems and leaves on cream-colored silk background. Romantic vintage-inspired design.",
+    "image_path": "data/images/FLOWER-001.jpg"
+  },
+  {
+    "id": "FLOWER-002",
+    "category": "Shirt",
+    "name": "Soft Cherry Blossom Dress Shirt",
+    "color": "Pale Pink",
+    "style": "Minimalist Floral",
+    "fabric": "Cotton",
+    "price": 120,
+    "stock_level": 8,
+    "description": "Minimalist design featuring delicate, scattered cherry blossom branches with pale pink petals on crisp white background. Soft minimalism with nature touch.",
+    "image_path": "data/images/FLOWER-002.jpg"
+  },
+  {
+    "id": "FLOWER-003",
+    "category": "Shirt",
+    "name": "Botanical Fern Print Shirt",
+    "color": "Olive Green",
+    "style": "Nature-Inspired",
+    "fabric": "Cotton",
+    "price": 95,
+    "stock_level": 12,
+    "description": "All-over print of detailed, hand-drawn style botanical ferns in olive green on cream-colored background. Understated nature-inspired elegance.",
+    "image_path": "data/images/FLOWER-003.jpg"
+  },
+  {
+    "id": "FLOWER-004",
+    "category": "Tie",
+    "name": "Sunflower Sketch Bow Tie",
+    "color": "Yellow",
+    "style": "Artistic Bold",
+    "fabric": "Silk",
+    "price": 65,
+    "stock_level": 18,
+    "description": "Pattern of large, sketch-style sunflowers with bold black outlines and bright yellow petals on white background. Bold, artistic, and cheerful.",
+    "image_path": "data/images/FLOWER-004.jpg"
+  },
+  {
+    "id": "FLOWER-005",
+    "category": "Accessory",
+    "name": "Lavender Field Pocket Square",
+    "color": "Lavender",
+    "style": "Watercolor Landscape",
+    "fabric": "Silk",
+    "price": 45,
+    "stock_level": 22,
+    "description": "Silk pocket square featuring printed watercolor-style landscape of lavender field under pale blue sky. Calm and artistic nature scene.",
+    "image_path": "data/images/FLOWER-005.jpg"
+  },
+  {
+    "id": "FLOWER-006",
+    "category": "Suit",
+    "name": "Midnight Peony Statement Jacket",
+    "color": "Black",
+    "style": "Romantic Bold",
+    "fabric": "Satin",
+    "price": 320,
+    "stock_level": 6,
+    "description": "Satin statement jacket with large-scale print of deep pink and magenta peonies with dark green leaves on black background. Romantic and daring formalwear.",
+    "image_path": "data/images/FLOWER-003.jpg"
+  },
+  {
+    "id": "FLOWER-007",
+    "category": "Shirt",
+    "name": "Daffodil Flower Dress Shirt",
+    "color": "Yellow",
+    "style": "Spring Floral",
+    "fabric": "Cotton",
+    "price": 110,
+    "stock_level": 35,
+    "description": "Elegant dress shirt featuring bright daffodil flower patterns, perfect for spring occasions and adding vibrant nature elements to formal wear.",
+    "image_path": "data/images/FLOWER-007.jpg"
+  },
+  {
+    "id": "FLOWER-008",
+    "category": "Shirt",
+    "name": "Premium Cotton Business Shirt",
+    "color": "White",
+    "style": "Business Casual",
+    "fabric": "Cotton",
+    "price": 85,
+    "stock_level": 3,
+    "description": "High-quality cotton shirt suitable for professional settings and business meetings.",
+    "image_path": "data/images/FLOWER-002.jpg"
+  },
+  {
+    "id": "FLOWER-009",
+    "category": "Tie",
+    "name": "Classic Silk Necktie",
+    "color": "Red",
+    "style": "Traditional",
+    "fabric": "Silk",
+    "price": 65,
+    "stock_level": 4,
+    "description": "Traditional silk necktie perfect for formal occasions and business attire.",
+    "image_path": "data/images/FLOWER-001.jpg"
+  },
+  {
+    "id": "FLOWER-010",
+    "category": "Tie",
+    "name": "Leaf Bow Tie",
+    "color": "Green",
+    "style": "Bow Tie",
+    "fabric": "Silk",
+    "price": 55,
+    "stock_level": 6,
+    "description": "Simple leaf bow tie for formal occasions.",
+    "image_path": "data/images/FLOWER-010.jpg"
+  }
+]

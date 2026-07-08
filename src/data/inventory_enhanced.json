@@ -1,0 +1,79 @@
+[
+  {
+    "id": "FLOWER-001",
+    "category": "Tie",
+    "name": "Rose Garden Silk Tie",
+    "color": "Deep Red",
+    "style": "Romantic Vintage",
+    "fabric": "Silk",
+    "price": 85,
+    "stock_level": 15,
+    "description": "Hand-drawn style red roses with dark green stems and leaves on cream-colored silk background. Romantic vintage-inspired design."
+  },
+  {
+    "id": "FLOWER-002",
+    "category": "Shirt", 
+    "name": "Soft Cherry Blossom Dress Shirt",
+    "color": "Pale Pink",
+    "style": "Minimalist Floral",
+    "fabric": "Cotton",
+    "price": 120,
+    "stock_level": 8,
+    "description": "Minimalist design featuring delicate, scattered cherry blossom branches with pale pink petals on crisp white background. Soft minimalism with nature touch."
+  },
+  {
+    "id": "FLOWER-003",
+    "category": "Shirt",
+    "name": "Botanical Fern Print Shirt",
+    "color": "Olive Green",
+    "style": "Nature-Inspired",
+    "fabric": "Cotton", 
+    "price": 95,
+    "stock_level": 12,
+    "description": "All-over print of detailed, hand-drawn style botanical ferns in olive green on cream-colored background. Understated nature-inspired elegance."
+  },
+  {
+    "id": "FLOWER-004",
+    "category": "Tie",
+    "name": "Sunflower Sketch Bow Tie",
+    "color": "Yellow",
+    "style": "Artistic Bold",
+    "fabric": "Silk",
+    "price": 65,
+    "stock_level": 18,
+    "description": "Pattern of large, sketch-style sunflowers with bold black outlines and bright yellow petals on white background. Bold, artistic, and cheerful."
+  },
+  {
+    "id": "FLOWER-005",
+    "category": "Accessory",
+    "name": "Lavender Field Pocket Square",
+    "color": "Lavender",
+    "style": "Watercolor Landscape",
+    "fabric": "Silk",
+    "price": 45,
+    "stock_level": 22,
+    "description": "Silk pocket square featuring printed watercolor-style landscape of lavender field under pale blue sky. Calm and artistic nature scene."
+  },
+  {
+    "id": "FLOWER-006",
+    "category": "Suit",
+    "name": "Midnight Peony Statement Jacket", 
+    "color": "Black",
+    "style": "Romantic Bold",
+    "fabric": "Satin",
+    "price": 320,
+    "stock_level": 6,
+    "description": "Satin statement jacket with large-scale print of deep pink and magenta peonies with dark green leaves on black background. Romantic and daring formalwear."
+  },
+  {
+    "id": "FLOWER-007",
+    "category": "Shirt",
+    "name": "Daffodil Flower Dress Shirt",
+    "color": "Yellow",
+    "style": "Spring Floral",
+    "fabric": "Cotton",
+    "price": 110,
+    "stock_level": 35,
+    "description": "Elegant dress shirt featuring bright daffodil flower patterns, perfect for spring occasions and adding vibrant nature elements to formal wear."
+  }
+]

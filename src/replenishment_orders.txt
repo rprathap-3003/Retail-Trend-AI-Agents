@@ -1,0 +1,130 @@
+
+======================================================================
+   URGENT REPLENISHMENT ORDERS - PURCHASING DEPARTMENT
+   Date: January 10, 2026
+======================================================================
+
+🚨 CRITICAL - ORDER IMMEDIATELY (Stock: 0-5 units)
+==================================================
+• Prioritized Lightweight Fabrics
+  Match Method: 📝 Description Match (87% confidence)
+  Reason: 🚨 Trend 'Prioritized Lightweight Fabrics' matched with 87.3% confidence but has critically low stock (3 units).
+  Current Stock: 3 units
+  RECOMMENDED ORDER: 200 units
+------------------------------
+• The Tie with a Twist
+  Match Method: 📝 Description Match (91% confidence)
+  Reason: 🚨 Trend 'The Tie with a Twist' matched with 91.0% confidence but has critically low stock (4 units).
+  Current Stock: 4 units
+  RECOMMENDED ORDER: 200 units
+------------------------------
+• Conscious Sustainable Fabrics
+  Match Method: 📝 Description Match (87% confidence)
+  Reason: 🚨 Trend 'Conscious Sustainable Fabrics' matched with 86.8% confidence but has critically low stock (3 units).
+  Current Stock: 3 units
+  RECOMMENDED ORDER: 200 units
+------------------------------
+
+✨ NEW PRODUCT OPPORTUNITIES (Trends with No Inventory)
+==================================================
+• Refined Jacquard Suits
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 68.9%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Refined Jacquard Suits' for potential addition.
+------------------------------
+• Dominant Earthy Tones
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 68.3%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Dominant Earthy Tones' for potential addition.
+------------------------------
+• Navy as the New Classic
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 65.3%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Navy as the New Classic' for potential addition.
+------------------------------
+• The 6x2 Double-Breasted Suit
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 68.0%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'The 6x2 Double-Breasted Suit' for potential addition.
+------------------------------
+• Softly Structured Suiting
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 69.4%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Softly Structured Suiting' for potential addition.
+------------------------------
+• The Statement Vest
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 70.7%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'The Statement Vest' for potential addition.
+------------------------------
+• Ubiquitous Stripes
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 63.9%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Ubiquitous Stripes' for potential addition.
+------------------------------
+• Daring Color Statements
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 67.0%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Daring Color Statements' for potential addition.
+------------------------------
+• Loud & Bold Patterns
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 71.0%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Loud & Bold Patterns' for potential addition.
+------------------------------
+• The Three-Button Resurgence
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 66.5%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'The Three-Button Resurgence' for potential addition.
+------------------------------
+• Sharp Cut Silhouettes
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 67.2%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Sharp Cut Silhouettes' for potential addition.
+------------------------------
+• Soft Minimalism
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 67.4%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Soft Minimalism' for potential addition.
+------------------------------
+• The Elevated Quarter-Zip
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 61.3%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'The Elevated Quarter-Zip' for potential addition.
+------------------------------
+• The Preppy Cardigan Layer
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 79.6%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'The Preppy Cardigan Layer' for potential addition.
+------------------------------
+• Heritage Plaid Trousers
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 65.4%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Heritage Plaid Trousers' for potential addition.
+------------------------------
+• Retro V-Neck Sweaters
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 81.1%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Retro V-Neck Sweaters' for potential addition.
+------------------------------
+• Dusty Pink & Maroon Tones
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 74.8%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Dusty Pink & Maroon Tones' for potential addition.
+------------------------------
+• Bold Print Sneakers
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 64.9%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Bold Print Sneakers' for potential addition.
+------------------------------
+• Cool Ice Blue Accents
+  Status: NEW PRODUCT OPPORTUNITY
+  Reason: ❌ Didn't find matching items (Best match: 69.3%), so requesting new opportunity.
+  Suggest: Sourcing team to review 'Cool Ice Blue Accents' for potential addition.
+------------------------------
+
+ORDER SUMMARY:
+• Critical Orders: 3 items
+• Medium Priority: 0 items
+• Total Items to Order: 3
+• 🖼️ Items Identified via AI Image Analysis: 0

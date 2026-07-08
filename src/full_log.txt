@@ -1,0 +1,65 @@
+﻿python : Traceback 
+(most recent call 
+last):
+At line:1 char:1
++ python main.py 
+*>&1 | Out-File 
+-FilePath 
+full_log.txt 
+-Encoding utf8
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo   
+           : NotSpe  
+  cified: (Traceba   
+ ck (most recent     
+call last)::Stri    
+ng) [], RemoteEx    
+ception
+    + FullyQualified 
+   ErrorId : Native  
+  CommandError
+ 
+  File "C:\Users\rbha
+r\.gemini\antigravity
+\scratch\retail_trend
+_ai\src\main.py", 
+line 23, in <module>
+    from 
+agents.trend_agent 
+import trend_agent
+  File "C:\Users\rbha
+r\.gemini\antigravity
+\scratch\retail_trend
+_ai\src\agents\trend_
+agent.py", line 6, 
+in <module>
+    from 
+langchain.prompts 
+import PromptTemplate
+  File "C:\Users\rbha
+r\AppData\Local\Packa
+ges\PythonSoftwareFou
+ndation.Python.3.13_q
+bz5n2kfra8p0\LocalCac
+he\local-packages\Pyt
+hon313\site-packages\
+langchain\prompts\__i
+nit__.py", line 38, 
+in <module>
+    from langchain_co
+re.prompts import (
+    ...<15 lines>...
+    )
+ImportError: cannot 
+import name 'Pipeline
+PromptTemplate' from 
+'langchain_core.promp
+ts' (C:\Users\rbhar\A
+ppData\Local\Packages
+\PythonSoftwareFounda
+tion.Python.3.13_qbz5
+n2kfra8p0\LocalCache\
+local-packages\Python
+313\site-packages\lan
+gchain_core\prompts\_
+_init__.py)

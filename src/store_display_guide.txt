@@ -1,0 +1,57 @@
+
+======================================================================
+   STORE DISPLAY GUIDE - SALES ASSOCIATES
+   January 2026 Trend-Based Merchandising
+======================================================================
+
+🏆 TOP 5 TRENDING ITEMS - Feature These!
+==================================================
+1. 📝 The Tie with a Twist
+   Item: Classic Silk Necktie
+   Status: 🚨 URGENT BUY - Stock: 4 units
+   Match: 91% confidence (Ai Analysis Of Image)
+   Price: $65
+   💡 Selling Points: Trending style, high demand
+   📋 Display Tip: Last chance sale! Create urgency with limited stock signage
+
+2. 📝 Prioritized Lightweight Fabrics
+   Item: Premium Cotton Business Shirt
+   Status: 🚨 URGENT BUY - Stock: 3 units
+   Match: 87% confidence (Ai Analysis Of Image)
+   Price: $85
+   💡 Selling Points: Trending style, high demand
+   📋 Display Tip: Last chance sale! Create urgency with limited stock signage
+
+3. 📝 Conscious Sustainable Fabrics
+   Item: Premium Cotton Business Shirt
+   Status: 🚨 URGENT BUY - Stock: 3 units
+   Match: 87% confidence (Ai Analysis Of Image)
+   Price: $85
+   💡 Selling Points: Trending style, high demand
+   📋 Display Tip: Last chance sale! Create urgency with limited stock signage
+
+4. 📝 Retro V-Neck Sweaters
+   Item: Classic Silk Necktie
+   Status: ✅ NEW PRODUCT OPPORTUNITY - Stock: 0 units
+   Match: 81% confidence (New Product Opportunity)
+   Price: $65
+   💡 Selling Points: Trending style, high demand
+   📋 Display Tip: Feature prominently with good lighting
+
+5. 📝 The Preppy Cardigan Layer
+   Item: Premium Cotton Business Shirt
+   Status: ✅ NEW PRODUCT OPPORTUNITY - Stock: 0 units
+   Match: 80% confidence (New Product Opportunity)
+   Price: $85
+   💡 Selling Points: Trending style, high demand
+   📋 Display Tip: Feature prominently with good lighting
+
+
+==================================================
+MERCHANDISING TIPS:
+• 🖼️ 0 items verified by AI image analysis
+• Group similar colors and patterns together for visual impact
+• Use proper lighting to highlight textures and patterns
+• Cross-sell accessories with suits and shirts
+• Keep high-confidence items at eye level
+• Update displays weekly based on AI analysis results
